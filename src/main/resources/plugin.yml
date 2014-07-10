@@ -1,0 +1,3 @@
+name: chasertw123-t3
+main: com.tenjava.entries.chasertw123.t3.TenJava
+version: '${project.version}'
